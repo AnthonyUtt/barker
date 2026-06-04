@@ -1,4 +1,6 @@
 [![CI](https://github.com/AnthonyUtt/barker/actions/workflows/ci.yml/badge.svg)](https://github.com/AnthonyUtt/barker/actions/workflows/ci.yml)
+[![Crates.io](https://img.shields.io/crates/v/barker.svg)](https://crates.io/crates/barker)
+[![docs.rs](https://img.shields.io/docsrs/barker)](https://docs.rs/barker)
 
 # barker
 
