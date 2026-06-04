@@ -1,0 +1,14 @@
+[package]
+name = "barker"
+version = "0.1.0"
+edition = "2024"
+rust-version = "1.85"
+description = "A small, synchronous trait-object event bus with type-safe handlers, TTL, and priority metadata."
+license = "MIT OR Apache-2.0"
+repository = "https://github.com/AnthonyUtt/barker"
+keywords = ["event-bus", "pubsub", "message-bus", "events"]
+categories = ["concurrency", "data-structures"]
+
+[dependencies]
+flume = "0.12"
+thiserror = "2"
